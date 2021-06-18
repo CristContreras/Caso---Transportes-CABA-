@@ -1,0 +1,6 @@
+C:\Users\Cristian\source\repos\Transportes CABA\BLL\bin\Debug\BLL.dll
+C:\Users\Cristian\source\repos\Transportes CABA\BLL\bin\Debug\BLL.pdb
+C:\Users\Cristian\source\repos\Transportes CABA\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\Transportes CABA\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Transportes CABA\BLL\obj\Debug\BLL.dll
+C:\Users\Cristian\source\repos\Transportes CABA\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,13 @@
+C:\Users\Cristian\source\repos\Transportes CABA\UI\bin\Debug\UI.exe.config
+C:\Users\Cristian\source\repos\Transportes CABA\UI\bin\Debug\UI.exe
+C:\Users\Cristian\source\repos\Transportes CABA\UI\bin\Debug\UI.pdb
+C:\Users\Cristian\source\repos\Transportes CABA\UI\bin\Debug\BLL.dll
+C:\Users\Cristian\source\repos\Transportes CABA\UI\bin\Debug\BLL.pdb
+C:\Users\Cristian\source\repos\Transportes CABA\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\Transportes CABA\UI\obj\Debug\UI.Form1.resources
+C:\Users\Cristian\source\repos\Transportes CABA\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Cristian\source\repos\Transportes CABA\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Cristian\source\repos\Transportes CABA\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Transportes CABA\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Cristian\source\repos\Transportes CABA\UI\obj\Debug\UI.exe
+C:\Users\Cristian\source\repos\Transportes CABA\UI\obj\Debug\UI.pdb
